@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-25T12:48:53.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="BqGLQPOMnNRbDfu6MTPh" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-25T12:50:32.395Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="K2855Wc7_dmbzHCohzZJ" version="12.2.9" type="github" pages="1">
   <diagram id="2eD3lW2PLFikMXHFpNOb" name="Page-1">
-    <mxGraphModel dx="932" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -89,7 +89,7 @@
         <mxCell id="CeESXBaDxNeJWTvj4W1L-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="CeESXBaDxNeJWTvj4W1L-18" target="CeESXBaDxNeJWTvj4W1L-20" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="CeESXBaDxNeJWTvj4W1L-18" value="自动运行测试脚本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CeESXBaDxNeJWTvj4W1L-18" value="自动运行测试程序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="CeESXBaDxNeJWTvj4W1L-22" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="CeESXBaDxNeJWTvj4W1L-20" edge="1">
@@ -111,7 +111,7 @@
         <mxCell id="whCyOXk19J5wDPE3yN8r-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeESXBaDxNeJWTvj4W1L-23" target="whCyOXk19J5wDPE3yN8r-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="CeESXBaDxNeJWTvj4W1L-23" value="质量分析平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CeESXBaDxNeJWTvj4W1L-23" value="运行质量评估程序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="CeESXBaDxNeJWTvj4W1L-33" value="开发阶段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;strokeColor=#000000;" parent="1" vertex="1">
